@@ -101,7 +101,7 @@ add_one(add_one(add_one(add_one(add_one(add_one(1))))))
 
 # EXPRESSIONS PLAYGROUND BEGINS
 
-
+4 * add_one(7) * 2 # evaluates to 64 - the first multiplication is done first
 
 # EXPRESSIONS PLAYGROUND ENDS
 
